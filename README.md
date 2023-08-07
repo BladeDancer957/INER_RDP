@@ -1,5 +1,7 @@
 # Task Relation Distillation and Prototypical Pseudo Label for Incremental Named Entity Recognition (CIKM2023)
 
+This repository contains all of our source code. We sincerely thank the help of [Zheng et al.'s repository](https://github.com/zzz47zzz/CFNER).
+
 ## Overview of the directory
 - *bert-base-cased/*: the directory of configurations and PyTorch pretrained model for bert-base-cased
 - *config/* : the directory of configurations for our RDP method
