@@ -167,7 +167,6 @@ class BaseTrainer(object):
   
         # 原型伪标签
         probs = torch.softmax(refer_logits, dim=-1) # (bs, seq_len, refer_dims)   refer_dims==old_classes
-        _, pseudo_labels = probs.max(dim=-1)
 
         weights = self.get_prototype_weight(refer_features)   # (bs, seq_len, old_classes)
 
