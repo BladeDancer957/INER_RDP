@@ -53,7 +53,7 @@ Then, the results as well as the model checkpoint will be saved automatically in
 ```
 @inproceedings{zhang2023rdp,
   title={Task Relation Distillation and Prototypical Pseudo Label for Incremental Named Entity Recognition},
-  author={Duzhen Zhang, Hongliu Li, Wei Cong, Rongtao Xu, Jiahua Dong, Xiuyi Chen},
+  author={Zhang, Duzhen and Li, Hongliu and Cong, Wei and Xu, Rongtao and Dong, Jiahua and Chen, Xiuyi},
   booktitle={Proceedings of the 32th ACM International Conference on Information \& Knowledge Management},
   year={2023}
 }
